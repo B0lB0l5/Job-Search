@@ -77,7 +77,6 @@ Tracks each job application, associating users with jobs.
 ## 🛠️ Technologies Used
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Frontend**: React.js
 - **File Storage**: Cloudinary for resume uploads
 - **Authentication**: JWT and bcrypt
 - **Excel Reporting**: ExcelJS or a similar library for Excel export
