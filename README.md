@@ -1,7 +1,7 @@
 # **Job Search App**
 
 ## 📋 Project Overview
-The **Job Search App** is a full-stack application designed to connect job seekers with relevant opportunities and streamline the hiring process for companies. This app supports user and company profiles, job listings, job applications, and advanced filters for efficient job searches.
+The **Job Search App** is a backend designed to connect job seekers with relevant opportunities and streamline the hiring process for companies. This app supports user and company profiles, job listings, job applications, and advanced filters for efficient job searches.
 
 ## 🚀 Features
 - **Customized Job Search Filters** - Filter jobs by working time, location, title, and skills to find the best match.
